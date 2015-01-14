@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-mysql-performance-monitor",
 	"description": "Tellki MySQL performance monitor",
-	"version": "0.0.11",
+	"version": "0.0.12",
 	"keywords": ["tellki","monitor","mysql","performance","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
